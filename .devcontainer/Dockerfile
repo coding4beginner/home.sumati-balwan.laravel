@@ -34,7 +34,7 @@ RUN    apt-get install --yes tzdata \
 RUN apt-get install --yes build-essential lsb-release curl sudo git vim
 RUN apt-get install --yes software-properties-common
 
-RUN apt-get install --yes unzip file
+RUN apt-get install --yes unzip file just
 
 # -------------------------------------------------------------------------------------------------
 # PHP
