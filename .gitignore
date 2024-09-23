@@ -4,3 +4,5 @@
 .vscode
 
 app/.pnpm-store
+
+.vscode-server-insiders
